@@ -149,6 +149,7 @@ def countSort(arr):
     for i in range(len(arr)):
         arr[i] = output[i]
 
+
 smallAscText = open("Sets/1k_Ascending.txt","r")
 smallDescText = open("Sets/1k_Descending.txt","r")
 smallRandText = open("Sets/1k_Random.txt","r")
